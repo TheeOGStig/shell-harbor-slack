@@ -1,0 +1,10 @@
+{
+  "channel": "C0CGWTFJ74H",
+  "thread_ts": "1794843738.389809",
+  "messages": [
+    {
+      "persona": "Nora Vance",
+      "text": "Short version, from Jarvis and me. Top 3 for Mon 16 to Fri 20 Nov:\n\n*1. Mon–Tue: Engineering setup*\n• #71 Set up Unity for the prototype\n• #66 Create a Firebase project\n\n*2. Wed: Sprint plan and database*\n• #72 Review the Alpha Sprint Plan\n• #151 Update the sprint plan for a 25-level alpha\n• #143 Check the master game doc\n• #15 Shell database: upload v26 in place of v25\n\n*3. Thu–Fri: Gate 0 (Eleanor: go)*\n• #73 Book the attorney meeting\n• #74 Book an accountant\n• #2 EIN, business bank account and card (before 12 Dec)"
+    }
+  ]
+}
