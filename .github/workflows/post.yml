@@ -1,0 +1,61 @@
+name: Post team replies to Slack
+
+on:
+  push:
+    branches: [main]
+    paths: ["outbox/*.json"]
+  workflow_dispatch:
+    inputs:
+      file:
+        description: "Reply file to post, e.g. outbox/test.json"
+        required: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: slack-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Find new reply files
+        id: files
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+          MANUAL: ${{ github.event.inputs.file }}
+        run: |
+          if [ -n "$MANUAL" ]; then
+            files="$MANUAL"
+          elif [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            files=$(git diff-tree --no-commit-id --name-only --diff-filter=A -r "$AFTER" -- 'outbox/*.json')
+          else
+            files=$(git diff --name-only --diff-filter=A "$BEFORE" "$AFTER" -- 'outbox/*.json')
+          fi
+          echo "Files: $files"
+          echo "list=$(echo $files)" >> "$GITHUB_OUTPUT"
+
+      - name: Check replies
+        if: steps.files.outputs.list != ''
+        env:
+          FILES: ${{ steps.files.outputs.list }}
+        run: python post_as.py $FILES --dry-run
+
+      - name: Post to Slack
+        if: steps.files.outputs.list != ''
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          FILES: ${{ steps.files.outputs.list }}
+        run: python post_as.py $FILES
