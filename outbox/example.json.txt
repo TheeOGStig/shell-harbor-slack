@@ -1,0 +1,10 @@
+{
+  "channel": "C0CGWTFJ74H",
+  "thread_ts": "1794798045.613459",
+  "messages": [
+    {
+      "persona": "Nora Vance",
+      "text": "Test from the Shell Harbor Team app: if you can see my name and photo here, persona posting works."
+    }
+  ]
+}
