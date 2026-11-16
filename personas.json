@@ -1,0 +1,146 @@
+{
+  "Aisha Karim": {
+    "title": "Backend Engineer",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/3a2b4d35-2752-438c-af95-fe2174a04cb0.jpg"
+  },
+  "Amara Nwosu": {
+    "title": "Player Psychology & UX Researcher",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/34da6c51-5b28-4d0e-9499-4b316da1bf88.jpg"
+  },
+  "Benjamin Cho": {
+    "title": "Accountant",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/06455cc6-d2a9-4e6a-9dd7-bc29ce43687c.jpg"
+  },
+  "Bianca Flores": {
+    "title": "Ad Creative Producer",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/c7851861-d4df-4e00-852a-d06217b705c1.jpg"
+  },
+  "Carlos Mendes": {
+    "title": "Ad Monetization Manager",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/0308d230-9e7e-49e3-90e7-8065ad320ade.jpg"
+  },
+  "Coral Jensen": {
+    "title": "Content Designer: Beaches & Shells",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/2ebc116c-4bb5-4024-82de-78ca2bdd8b23.jpg"
+  },
+  "Daniel Osei": {
+    "title": "VP of Engineering",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/7a182192-683a-43b9-804c-d8fd4cc15820.jpg"
+  },
+  "Dr. Ruth Calloway": {
+    "title": "Conchologist (Shell Science Lead)",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/e5306f94-81b2-4e5a-8d49-4e269a61cb2f.jpg"
+  },
+  "Eleanor Hart": {
+    "title": "Legal & Compliance Advisor",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/ef06823d-88f0-48a7-b726-8f752f424598.jpg"
+  },
+  "Ethan Brooks": {
+    "title": "Client Engineer",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/936afa61-5c31-492e-be7d-dfe94af7ed29.jpg"
+  },
+  "Grace Kim": {
+    "title": "QA Lead",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/8dfb31f6-2126-4368-8d5c-bc721fe20387.jpg"
+  },
+  "Grant Whitfield": {
+    "title": "Producer",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/cf1497fc-e203-4a66-ad5d-2fea0cd8be98.jpg"
+  },
+  "Hannah Weiss": {
+    "title": "Economy Designer",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/2268a4df-d39b-4b15-b23d-50b7f6fcf313.jpg"
+  },
+  "Isabel Navarro": {
+    "title": "Art Director",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/df1e0124-4f93-4831-a337-76faf8aa56f1.jpg"
+  },
+  "Jarvis": {
+    "title": "Executive Assistant",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/2932c643-352a-425e-ab5f-d5303eb182fa.jpg"
+  },
+  "Jonah Fischer": {
+    "title": "Technical Artist / Animator",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/d35d2ab5-91ad-4b5f-b15b-47dba673dde6.jpg"
+  },
+  "Jordan Hayes": {
+    "title": "Head of Growth",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/19befa57-ee4f-4fa6-8d98-5e6645ac14db.jpg"
+  },
+  "Kai Nakoa": {
+    "title": "Environment Artist",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/01a8097b-1af1-4e18-9f9f-eafc96ccb929.jpg"
+  },
+  "Leo Tanaka": {
+    "title": "UI/UX Designer",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/8247133b-4c01-4614-b509-1d6cebf9e550.jpg"
+  },
+  "Linda Okafor": {
+    "title": "Operations & Finance Manager",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/35684e3a-6dde-47ec-953e-72ec4b1af0d6.jpg"
+  },
+  "Lucas Gray": {
+    "title": "User Acquisition Manager",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/5c8820f5-d694-4e8d-abbc-05fc7fa02f8a.jpg"
+  },
+  "Lucía Morales": {
+    "title": "Translator & Localization Lead",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/7f1eff02-0d12-4375-b1ca-a2aa9580c193.jpg"
+  },
+  "Marcus Bell": {
+    "title": "Game Director",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/c7b51273-1b04-41f2-bb67-43359714b1d3.jpg"
+  },
+  "Mateo Ríos": {
+    "title": "Game Audio Designer",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/dd2f08c7-89aa-4fb6-bea7-11f7bb66567e.jpg"
+  },
+  "Mia Rossi": {
+    "title": "Character & UI Artist",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/759e91c5-836a-4581-a220-62443086baf7.jpg"
+  },
+  "Morgan Reyes": {
+    "title": "Chief Executive Officer (CEO)",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/6bbd06ae-f1fc-459b-bb43-65e6a2bd0e3a.jpg"
+  },
+  "Nora Vance": {
+    "title": "Team Operations Manager",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/16719ccb-88b2-4e7a-b175-f39ab9f6ec0a.jpg"
+  },
+  "Owen Vasquez": {
+    "title": "Security Engineer",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/684a1f36-46bf-4d6e-a80e-ea15e644c315.jpg"
+  },
+  "Priya Shah": {
+    "title": "Lead Game Designer",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/9461edb5-a7d7-4168-a921-37418c465f7a.jpg"
+  },
+  "Ravi Patel": {
+    "title": "DevOps & Tools Engineer",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/d038684f-57a3-4e38-84f3-4c9d9b2de11e.jpg"
+  },
+  "Sandy Pierce": {
+    "title": "Community Manager",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/d2540065-10f8-4084-a488-4c13cbe81cc3.jpg"
+  },
+  "Sofia Marino": {
+    "title": "Lead Client Engineer",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/81f5e757-3021-4e94-aceb-fc226c14d7e4.jpg"
+  },
+  "Tessa Lindqvist": {
+    "title": "Test Engineer (Test-First)",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/a8384a73-c4dc-4994-b175-d17f2e73b640.jpg"
+  },
+  "Theo Laurent": {
+    "title": "Shell & Prop Artist",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/532f89b7-1557-4533-a65c-6b77cb879232.jpg"
+  },
+  "Victor Chen": {
+    "title": "Head of Revenue (Monetization & Growth)",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/1186e77c-0de8-4953-be86-eab894f34d92.jpg"
+  },
+  "Zoe Adams": {
+    "title": "Data Analyst",
+    "icon_url": "https://cdn.creativeclaw.co/u/0f776734/images/79334ea3-149c-4b90-8bd6-aab293e7565f.jpg"
+  }
+}
