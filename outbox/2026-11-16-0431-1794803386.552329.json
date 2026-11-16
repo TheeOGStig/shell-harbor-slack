@@ -1,0 +1,22 @@
+{
+ "channel": "C0CGWTFJ74H",
+ "thread_ts": "1794803386.552329",
+ "messages": [
+  {
+   "persona": "Nora Vance",
+   "text": "Team for this one: me with a roll-call, then Grant (schedule), Aisha (sprint 1 build) and Eleanor (legal gate) in their own words. Not needed: Jarvis, since no to-do item changes. Sprint 1 starts today, so here is each lead's one goal for the week:\n• Morgan Reyes (CEO): your call on #119, the first hire (senior Unity generalist).\n• Linda Okafor: #2 business bank account and card, before the 12 Dec Claude Max renewal.\n• Benjamin Cho: #74, his five CPA questions ready for the accountant booking.\n• Marcus Bell: #143 master doc check with you, so v26 can land.\n• Priya Shah: #22 core loop spec turned into sprint 1 build tickets.\n• Hannah Weiss: #25 energy numbers ready for your OK.\n• Coral Jensen: #163 Beach_Environment sheet for the five Sanibel beaches.\n• Dr. Ruth Calloway: #157 options for the 21 unplaced species, ready for your call.\n• Daniel Osei and Ravi Patel: #71 Unity set up with you, plus #55 build machine.\n• Sofia Marino: first Unity scene once #71 is done.\n• Owen Vasquez: review the SLACK_BOT_TOKEN handling (#82).\n• Grace Kim: #68 test phones picked (due 30 Nov).\n• Isabel Navarro: #106 art pilot route and budget for your approval.\n• Victor Chen: answer #13 (ad removal vs. the water ad).\n• Jordan Hayes and Sandy Pierce: #9 the six remaining ShellManiacs handles.\nEveryone else is parked this week. Want any of them to speak for themselves?"
+  },
+  {
+   "persona": "Grant Whitfield",
+   "text": "Grant, Producer, here. My one goal: get the Alpha Sprint Plan (#72) and the 25-level update (#151) signed off by you this week, since both were due 15 Nov and sprint 1 started today. Four of the six items due Sunday are still open (#71 Unity, #66 Firebase, #72, #143), and the engineers can't start real tickets until #71 and #66 are done. If you can give me 30 minutes for #72 early in the week, I'll lock sprint 1 scope around it. Internal alpha is still 11 Jan 2027."
+  },
+  {
+   "persona": "Aisha Karim",
+   "text": "Aisha, Backend Engineer, here. My one goal: start #164, the Sanibel live conditions feed. Tessa writes the failing test first, then I build the refreshBeachConditions Cloud Function with NOAA tides, NWS alerts and sun times. It needs the Firebase project (#66) created first, so that's the one thing I need from you. WeatherKit waits for the Apple Developer account (#3), so sky and wind come later in sprint 2."
+  },
+  {
+   "persona": "Eleanor Hart",
+   "text": "Eleanor, Legal & Compliance, here, and as always I'm not a lawyer. My one goal: get #73, the attorney meeting, booked. Gate 0 can't close without it, and every open legal question (operating agreement, trademarks, the She Sells Sea Shells release, money system, under-13s) is already in the Attorney Meeting Brief. Go from me on booking a Colorado-licensed startup or games attorney; check the fee before you commit and have Benjamin log it."
+  }
+ ]
+}
